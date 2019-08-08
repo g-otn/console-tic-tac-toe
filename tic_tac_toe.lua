@@ -47,9 +47,6 @@ function get_turn()
   end
 end
 
-function mark_grid_at(x, y)
-end
-
 while true do
   draw_board()
 
